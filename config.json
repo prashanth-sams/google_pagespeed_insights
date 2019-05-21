@@ -1,0 +1,24 @@
+{
+    "desktop": {
+
+        "home_page": {
+            "url": "https://www.google.com/"
+        },
+        "translate_page": {
+            "url": "https://translate.google.com/"
+        },
+        "flights_landing_page": {
+            "url": "https://www.google.com/flights"
+        }
+    },
+    
+    "mobile": {
+
+        "tips_page": {
+            "url": "https://get.google.com/apptips/tips/"
+        },
+        "apps_page": {
+            "url": "https://get.google.com/apptips/apps/"
+        }
+    }
+}
