@@ -8,22 +8,22 @@
 
 **Desktop Web**
 
-Single Page URL
+> single page url
 ```
 python insights_python_3/single_page.py desktop <your_page>
 ```
-> All Page URLs
+> all page urls
 ```
 python insights_python_3/all_pages.py desktop
 ```
 
 **Mobile Web**
 
-Single Page URL
+> single page url
 ```
 python insights_python_3/single_page.py mobile <your_page>
 ```
-All Page URLs
+> all page urls
 ```
 python insights_python_3/all_pages.py mobile
 ```
