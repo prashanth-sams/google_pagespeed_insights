@@ -4,12 +4,12 @@
 
 ### Python 3.6
 
-Desktop Web
+**Desktop Web**
 ```
 python insights_python_3/single_page.py desktop <your_page>
 ```
 
-Mobile Web
+**Mobile Web**
 ```
 python insights_python_3/single_page.py mobile <your_page>
 ```
