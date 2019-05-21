@@ -1,8 +1,8 @@
-### Google Pagespeed insights
+# Google Pagespeed insights
 > Library to calculate your page speed through Google pagespeed insights api
 
 
-# Python 3.6
+### Python 3.6
 
 ```
 # for desktop
