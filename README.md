@@ -27,3 +27,22 @@ python insights_python_3/single_page.py mobile <your_page>
 ```
 python insights_python_3/all_pages.py mobile
 ```
+
+## ![#Python 2](https://placehold.it/15/c5f015/000000?text=+) `Python 2`
+
+- Make sure you add all the page urls inside the `config.json` file
+- Applied performance tests for multiple pages on a single run
+
+**Desktop Web**
+
+► all page urls
+```
+python insights_python_2/all_pages.py desktop
+```
+
+**Mobile Web**
+
+► all page urls
+```
+python insights_python_2/all_pages.py mobile
+```
